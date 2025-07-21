@@ -83,9 +83,8 @@ const cinnamon = {
 
 </div>
 
- <a href="https://twitter.com/irunonironic">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+<a href="https://x.com/irunonironic"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true" width="60"></a>
+
 
 <div align="center">
   <h3> Thanks for visiting! </h3>
