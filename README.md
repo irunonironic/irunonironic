@@ -4,10 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Web+Dev;Always+Learning+New+Things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=irunonironic&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/irunonironic?label=Followers&style=social" alt="GitHub followers" />
-</div>
+
 
 ---
 
@@ -15,7 +12,6 @@
 
 ```typescript
 const cinnamon = {
-    pronouns: "she/her",
     currentFocus: "React.js & Modern Frontend Development",
     learning: ["React Hooks", "State Management", "Component Design"],
     interests: ["Web Development", "UI/UX Design"],
@@ -40,15 +36,11 @@ const cinnamon = {
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills" />
 </p>
 
-### Backend & Tools
+### Backend 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Skills" />
 </p>
 
-### Development Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Tools" />
-</p>
 
 </div>
 
@@ -65,16 +57,6 @@ const cinnamon = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irunonironic&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-
----
 
 ##  2025 Goals
 
@@ -93,21 +75,15 @@ const cinnamon = {
   <img src="https://wakatime.com/share/@IRunOnIronic/c8ae4e27-95e2-4d1d-8597-2f2d4e3a9b8c.svg" alt="Wakatime Stats" width="500"/>
 </div>
 
+
 ---
 
-## Let's Connect!
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="50" height="50" />
-  </a>
-  <a href="https://discord.gg/yourusername">
-    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50" height="50" />
-  </a>
-  
+  <img src="https://komarev.com/ghpvc/?username=irunonironic&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
 </div>
+
+
 <div align="center">
   <h3> Thanks for visiting! </h3>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
