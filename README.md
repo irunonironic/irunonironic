@@ -64,7 +64,6 @@ const cinnamon = {
 - [ ]  Build 3 responsive web applications  
 - [ ]  Contribute to open source projects
 - [ ]  Write technical blog posts
-- [ ]  Learn Three.js
 - [ ]  Explore Next.js framework
 
 ---
