@@ -71,7 +71,7 @@ const cinnamon = {
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://wakatime.com/share/@irunonironic/c8ae4e27-95e2-4d1d-8597-2f2d4e3a9b8c.svg" alt="Wakatime Stats" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=irunonironic&layout=compact&theme=tokyonight" alt="WakaTime Stats" />
 </div>
 
 
